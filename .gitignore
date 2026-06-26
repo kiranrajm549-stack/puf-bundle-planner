@@ -1,0 +1,6 @@
+service_account.json
+*.db
+*.pyc
+*.log
+*.spec
+__pycache__/
